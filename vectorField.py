@@ -1,9 +1,6 @@
 import numpy as np
 from .vector import Vector
 import matplotlib.pyplot as plt
-# import numdifftools as nd
-# from functools import reduce
-
 
 class VectorField:
     # dx, dy, dz defines the spacing between the co-ordinates
